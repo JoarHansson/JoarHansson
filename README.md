@@ -1,4 +1,5 @@
-### Hi there 👋
+- Currently working on: [wu-dd-event](https://github.com/vojtechlevi/wu-dd-event)
+- Currently learning: React and Node.js
 
 <!--
 **JoarHansson/JoarHansson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
