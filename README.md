@@ -1,4 +1,4 @@
-- Currently working on: [wu-dd-event](https://github.com/vojtechlevi/wu-dd-event)
+- Currently working on: [The-Chuck-Norris-generator](https://github.com/HannesAlexandersson/The-Chuck-Norris-generator)
 - Currently learning: React and Node.js
 
 <!--
