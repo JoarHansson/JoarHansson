@@ -1,5 +1,5 @@
-- Currently working on: [The-Chuck-Norris-generator](https://github.com/HannesAlexandersson/The-Chuck-Norris-generator)
-- Currently learning: React and Node.js
+- Currently working on: [space-images-app](https://github.com/JoarHansson/space-images-app)
+- Currently learning: React, Node.js and TypeScript
 
 <!--
 **JoarHansson/JoarHansson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
