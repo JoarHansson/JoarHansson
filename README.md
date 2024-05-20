@@ -1,4 +1,4 @@
-- Currently working on: [space-images-app](https://github.com/JoarHansson/space-images-app)
+- Currently working on: [space-images-app](https://github.com/JoarHansson/space-images-app) & [recipe-scraper](https://github.com/JoarHansson/recipe-scraper)
 - Currently learning: React, Node.js and TypeScript
 
 <!--
